@@ -1,3 +1,4 @@
+
 # rate-my-major
 
 Kaggle dataset used: College Majors and their Graduates
@@ -92,3 +93,4 @@ Men: The number of male students in the major. (Integer)
 Women: The number of female students in the major. (Integer)
 ShareWomen: The percentage of female students in the major. (Float)
 Median: The median salary of graduates from the major. (Integer)
+
