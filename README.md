@@ -1,5 +1,4 @@
-
-# rate-my-major
+# Rate My Major
 
 Kaggle dataset used: College Majors and their Graduates
 
